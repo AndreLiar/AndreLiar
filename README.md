@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Andre 👋</h1>
+<h1 align="center">Hi, I'm Andre</h1>
 
 <p align="center">
   <b>Fullstack Software Engineer & Cloud Architect</b><br/>
   Enterprise Solutions · Data · AI Integration<br/>
-  📍 Paris, France
+  Paris, France
 </p>
 
 <p align="center">
@@ -14,19 +14,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Fullstack Software Engineer specializing in scalable application development, CI/CD, and Cloud infrastructure. I architect, develop, and deploy production-grade applications that bridge the gap between engineering and system reliability.
 
 My expertise spans:
-- 🏗️ Building robust **event-driven backend systems**
-- ⚡ Optimizing **frontend architectures**
-- ☁️ Orchestrating fully automated deployment pipelines with **Azure & Kubernetes**
-- 🤖 Integrating **AI/ML** into real-world products and workflows
+- Building robust event-driven backend systems
+- Optimizing frontend architectures
+- Orchestrating fully automated deployment pipelines with Azure & Kubernetes
+- Integrating AI/ML into real-world products and workflows
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -63,7 +63,7 @@ My expertise spans:
 
 ---
 
-## 💼 Experience
+## Experience
 
 **IT Operations & Automation Engineer (Apprentice)** — HDI Global SE France, Paris *(Sep 2024 – Present)*
 - Reduced batch processing time by **70%** through advanced scripting workflows
@@ -77,7 +77,7 @@ My expertise spans:
 
 ---
 
-## 🏗️ Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -88,29 +88,18 @@ My expertise spans:
 
 ---
 
-## 🎓 Education
+## Education
 
 **Mastère — Expert en Développement Web Fullstack** *(Bac+5, RNCP Level 7)*
 Ynov Campus, Paris · 2022 – 2027
 
 ---
 
-## 🌍 Languages
+## Languages
 
-🇫🇷 French (Native) &nbsp;|&nbsp; 🇬🇧 English (C1 Advanced) &nbsp;|&nbsp; 🇩🇪 German (B1 Intermediate)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreLiar&show_icons=true&theme=tokyonight&hide_border=true" alt="Andre's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLiar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+French (Native) · English (C1) · German (B1)
 
 ---
 
-<p align="center">
-  💬 Open to opportunities in fullstack engineering, cloud architecture, and AI integration.<br/>
-  <a href="mailto:kanmegneandre@gmail.com">Let's connect!</a>
-</p>
+<p align="center">Open to opportunities in fullstack engineering, cloud architecture, and AI integration.<br/>
+<a href="mailto:kanmegneandre@gmail.com">Get in touch</a></p>
