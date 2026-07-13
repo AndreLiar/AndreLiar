@@ -61,17 +61,6 @@ Full runbooks → [minicloud-platform-docs](https://andrelair-platform.github.io
 
 ---
 
-## Application projects
-
-| Project | Stack |
-|---|---|
-| [TransparAI](https://transparai.vercel.app/) — AI legal document SaaS | React · Node.js · MongoDB · Firebase |
-| [PlatformPro Jobs](https://plateformprojob.vercel.app) — Serverless recruitment automation | Next.js · Firebase · Gemini AI |
-| [Freemap](https://freemap-puce.vercel.app/) — Real-time geospatial communication | Node.js · Socket.io · React · Leaflet |
-| [DigitalSentinel](https://digital-starter.vercel.app/) — Enterprise onboarding with AI | Next.js · MongoDB · NextAuth.js |
-
----
-
 ## Experience
 
 **IT Operations & Automation Engineer (Apprentice)** — HDI Global SE France, Paris *(Sep 2024 – Present)*  
