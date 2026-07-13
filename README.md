@@ -18,7 +18,7 @@
 
 ## What I'm building
 
-The [`andrelair-platform`](https://github.com/andrelair-platform) organization is my main active work through the end of my Master's. It's a production-grade private cloud platform running on 5 bare-metal laptops (4 ThinkPad X390s + 1 MacBook Pro 2012):
+The [`andrelair-platform`](https://github.com/andrelair-platform) organization is my personal homelab running as real production infrastructure — built to gain hands-on experience with the full platform engineering lifecycle, from bare-metal provisioning to GitOps delivery and AI services. 5 laptops (4 ThinkPad X390s + 1 MacBook Pro 2012), zero managed cloud:
 
 **Infrastructure layer**
 - MAAS bare-metal provisioning (PXE boot, Ubuntu 22.04, cloud-init)
